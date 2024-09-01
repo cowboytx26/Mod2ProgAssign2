@@ -1,4 +1,4 @@
-// GeometricObject.java: The abstract GeometricObject class
+// GeometricObject.java: The abstract GeometricObject class given in the book; author unknown
 public abstract class GeometricObject {
   private String color = "white";
   private boolean filled;
